@@ -89,4 +89,5 @@ This measure calculates the difference in youth literacy rates between males and
 ## Dashboard Preview
 
 ![Dashboard Screenshot](<img width="1541" height="866" alt="Screenshot 2025-08-06 at 3 25 25 PM" src="https://github.com/user-attachments/assets/948c49a4-de94-4eb0-a33d-584381a70036" />)
+<img width="1541" height="866" alt="Screenshot 2025-08-06 at 3 25 25 PM" src="https://github.com/user-attachments/assets/948c49a4-de94-4eb0-a33d-584381a70036" />
 
