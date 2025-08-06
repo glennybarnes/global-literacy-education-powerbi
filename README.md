@@ -1,6 +1,6 @@
 # Global Literacy & Education Trends (Power BI)
 
-A Power BI dashboard project by Group D — Kurtis, Glenn, and Emmanuela — analyzing global literacy rates and educational statistics to identify trends, disparities, and data-driven policy recommendations.
+A Power BI dashboard project analyzing global literacy rates and educational statistics to identify trends, disparities, and data-driven policy recommendations.
 
 ## Project Objective
 
